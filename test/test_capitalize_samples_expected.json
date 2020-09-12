@@ -1,0 +1,226 @@
+[
+  {
+    "Sample No": 1,
+    "Detections": []
+  },
+  {
+    "Sample No": 2,
+    "Detections": []
+  },
+  {
+    "Sample No": 3,
+    "Detections": [
+      {
+        "Sentence ID": 2,
+        "Word Index": "4",
+        "Word String": "Receiving",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 4,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "it",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 5,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "think",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 5,
+        "Word Index": "15",
+        "Word String": "But",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 6,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "i",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 7,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "17",
+        "Word String": "And",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 8,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "i",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 2,
+        "Word Index": "3",
+        "Word String": "Japanese",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 4,
+        "Word Index": "13",
+        "Word String": "canada",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 9,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "18",
+        "Word String": "europe",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 10,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "7",
+        "Word String": "mr",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 11,
+    "Detections": [
+      {
+        "Sentence ID": 4,
+        "Word Index": "1",
+        "Word String": "so",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 5,
+        "Word Index": "3",
+        "Word String": "manga",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 12,
+    "Detections": []
+  },
+  {
+    "Sample No": 13,
+    "Detections": [
+      {
+        "Sentence ID": 1,
+        "Word Index": "8",
+        "Word String": "i",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 1,
+        "Word Index": "14",
+        "Word String": "youtube",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 14,
+    "Detections": []
+  },
+  {
+    "Sample No": 15,
+    "Detections": [
+      {
+        "Sentence ID": 1,
+        "Word Index": "8",
+        "Word String": "i",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 16,
+    "Detections": []
+  },
+  {
+    "Sample No": 17,
+    "Detections": [
+      {
+        "Sentence ID": 1,
+        "Word Index": "3",
+        "Word String": "toshiba",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 18,
+    "Detections": []
+  },
+  {
+    "Sample No": 19,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "8",
+        "Word String": "japan",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 0,
+        "Word Index": "13",
+        "Word String": "sakura",
+        "Error Type": "Capitalization"
+      },
+      {
+        "Sentence ID": 1,
+        "Word Index": "5",
+        "Word String": "Today",
+        "Error Type": "Capitalization"
+      }
+    ]
+  },
+  {
+    "Sample No": 20,
+    "Detections": []
+  },
+  {
+    "Sample No": 21,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "14",
+        "Word String": "nintendo",
+        "Error Type": "Capitalization"
+      }
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "Sample No": 1,
+    "Detections": []
+  },
+  {
+    "Sample No": 2,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "5",
+        "Word String": "many",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 3,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "Apple",
+        "Error Type": "Pluralization"
+      },
+      {
+        "Sentence ID": 1,
+        "Word Index": "3",
+        "Word String": "some",
+        "Error Type": "Pluralization"
+      },
+      {
+        "Sentence ID": 1,
+        "Word Index": "6",
+        "Word String": "some",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 4,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "4",
+        "Word String": "one",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 5,
+    "Detections": []
+  },
+  {
+    "Sample No": 6,
+    "Detections": []
+  },
+  {
+    "Sample No": 7,
+    "Detections": []
+  },
+  {
+    "Sample No": 8,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "7",
+        "Word String": "sugars",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 9,
+    "Detections": []
+  },
+  {
+    "Sample No": 10,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "2",
+        "Word String": "egg",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 11,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "Foxes",
+        "Error Type": "Pluralization"
+      },
+      {
+        "Sentence ID": 1,
+        "Word Index": "3",
+        "Word String": "lion",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 12,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "3",
+        "Word String": "3",
+        "Error Type": "Pluralization"
+      },
+      {
+        "Sentence ID": 1,
+        "Word Index": "4",
+        "Word String": "one",
+        "Error Type": "Pluralization"
+      }
+    ]
+  },
+  {
+    "Sample No": 13,
+    "Detections": []
+  },
+  {
+    "Sample No": 14,
+    "Detections": []
+  }
+]

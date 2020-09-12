@@ -1,0 +1,93 @@
+[
+  {
+    "Sample No": 1,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "4",
+        "Word String": "because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  },
+  {
+    "Sample No": 2,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "4",
+        "Word String": "because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  },
+  {
+    "Sample No": 3,
+    "Detections": []
+  },
+  {
+    "Sample No": 4,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "4",
+        "Word String": "because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  },
+  {
+    "Sample No": 5,
+    "Detections": []
+  },
+  {
+    "Sample No": 6,
+    "Detections": [
+      {
+        "Sentence ID": 0,
+        "Word Index": "1",
+        "Word String": "Because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  },
+  {
+    "Sample No": 7,
+    "Detections": [
+      {
+        "Sentence ID": 4,
+        "Word Index": "1",
+        "Word String": "Because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  },
+  {
+    "Sample No": 8,
+    "Detections": [
+      {
+        "Sentence ID": 2,
+        "Word Index": "1",
+        "Word String": "Because",
+        "Error Type": "Because Without Principal Clause"
+      },
+      {
+        "Sentence ID": 7,
+        "Word Index": "1",
+        "Word String": "Because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  },
+  {
+    "Sample No": 9,
+    "Detections": [
+      {
+        "Sentence ID": 2,
+        "Word Index": "25",
+        "Word String": "because",
+        "Error Type": "Because Without Principal Clause"
+      }
+    ]
+  }
+]
